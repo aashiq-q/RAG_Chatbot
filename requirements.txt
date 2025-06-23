@@ -1,0 +1,27 @@
+# Web UI
+streamlit
+
+# LangChain core & integrations
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+sentence-transformers
+pypdf
+
+# Groq Python client (optional but safe)
+groq
+
+# Vectorstore
+faiss-cpu
+
+# Validation
+pydantic
+unstructured[local-inference] 
+pdfminer.six 
+pillow 
+pillow-heif
+
+
+# Environment variables helper
+python-dotenv
